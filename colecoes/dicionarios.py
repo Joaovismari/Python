@@ -1,4 +1,4 @@
-u'''
+'''
 Os dicionários representam coleções de dados que contém na sua estrutura um
 conjunto de pares chave/valor, nos quais cada chave individual tem um valor associado. Esse
 objeto representa a ideia de um mapa, que entendemos como uma coleção associativa desordenada.
